@@ -1,0 +1,21 @@
+{
+  "OWNER_ADDRESS": "0x3cd66dcE9eB05C8c4a9fcf515ED3E622A8fCCB3c",
+  "CONTRACT_ADDRESS": "0x65Dea55785a9ccdf9c3024a6428621c0704b9Ec9",
+
+  "SCAN_LINK": "https://polygonscan/address/0x648CB09254c17b070D28A2e3475B83316241Ba3c",
+  "NETWORK": {
+    "NAME": "Polygon Mainnet",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Dope Goat club",
+  "SYMBOL": "DGC",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 115000000000000000000,
+
+  "DISPLAY_COST": 115,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/DopeGoatclub",
+  "SHOW_BACKGROUND": true
+}
